@@ -1,5 +1,22 @@
 # COMP598_Fall2020
 
+## General Information
+|   |  |
+| :---: | ------------- |
+| Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
+| Class Time    | TR 11:35 am-12:55 pm | 
+| Location      | MAASS 328  |
+| Office Hour   | TBD |
+| Discussion Forum | [Piazza link](http://piazza.com/mcgill.ca/fall2020/comp303) |
+
+
+## Description
+
+## Expected Outcome
+
+## Reference Material
+- **Textbook**: 
+[Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://www.apress.com/gp/book/9781484234310). 
 
 # License
 
