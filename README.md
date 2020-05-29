@@ -15,7 +15,7 @@ Due to the COVID-19 pandemic, this course will be taught remotely. The detailed 
 
 
 ## Description
-This course is going to explore how to build the intelligent system from a software engineering perspective. While 
+This course is going to explore how to build an intelligent system from a software engineering perspective, from requirement gathering and analysis to deployment and maintenance. 
 
 
 ## Expected Outcome
@@ -24,8 +24,10 @@ This course is going to explore how to build the intelligent system from a softw
 While there are no official prerequisite courses, you will enjoy and appreciate this course more if you have taken COMP303, COMP424 and COMP551 already.
 
 ## Reference Material
-- **Textbook**: 
+- **Tentative Textbook**: 
 [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://www.apress.com/gp/book/9781484234310). 
+
+## Assessment and Evaluation
 
 # License
 
