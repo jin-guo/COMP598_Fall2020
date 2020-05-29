@@ -1,4 +1,7 @@
-# COMP598_Fall2020
+# COMP598_Fall2020 (Work in progress)
+
+
+
 
 ## General Information
 Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be confirmed at the end of the summer.
@@ -12,8 +15,13 @@ Due to the COVID-19 pandemic, this course will be taught remotely. The detailed 
 
 
 ## Description
+This course is going to explore how to build the intelligent system from a software engineering perspective. While 
+
 
 ## Expected Outcome
+
+## Prerequisite
+While there are no official prerequisite courses, you will enjoy and appreciate this course more if you have taken COMP303, COMP424 and COMP551 already.
 
 ## Reference Material
 - **Textbook**: 
