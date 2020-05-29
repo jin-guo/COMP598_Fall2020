@@ -1,12 +1,13 @@
 # COMP598_Fall2020
 
 ## General Information
+Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be confirmed at the end of the summer.
+
 |   |  |
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Class Time    | TR 11:35 am-12:55 pm | 
 | Location      | MAASS 328  |
-| Office Hour   | TBD |
 | Discussion Forum | [Piazza link](http://piazza.com/mcgill.ca/fall2020/comp303) |
 
 
