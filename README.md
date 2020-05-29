@@ -27,6 +27,8 @@ While there are no official prerequisite courses, you will enjoy and appreciate 
 - **Tentative Textbook**: 
 [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://www.apress.com/gp/book/9781484234310). 
 
+Other readings will include research papers, blog posts, talks, etc. Will be added later.
+
 ## Assessment and Evaluation
 
 # License
