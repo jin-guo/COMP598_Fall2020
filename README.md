@@ -24,12 +24,45 @@ This course is going to explore how to build an intelligent system from a softwa
 While there are no official prerequisite courses, you will enjoy and appreciate this course more if you have taken COMP303, COMP424 and COMP551 already.
 
 ## Reference Material
-- **Tentative Textbook**: 
+- **Books**: 
 [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://www.apress.com/gp/book/9781484234310). 
 
 Other readings will include research papers, blog posts, talks, etc. Will be added later.
 
 ## Assessment and Evaluation
+
+## Schedule (Tentative)
+*Subject to adjustments*
+
+| Lecture | Date | Content | Reading | Note |
+| :---: |:---:| :---: | :---: | :---: |
+|1	|  3 Sep  | Introduction | BIS book: Chapter 1 <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)|  |
+|2	|  8 Sep  |  | |  |
+|3	|  10 Sep  |  | |  |
+|4	|  15 Sep  |  | |  |
+|5	|  17 Sep  |  | |  |
+|6	|  22 Sep  |  | |  |
+|7	|  24 Sep  |  | |  |
+|8	|  29 Sep  |  | |  |
+|9	|  1 Oct  |  | |  |
+|10	|  6 Oct  |  | |  |
+|11	|  8 Oct  |  | |  |
+|12	|  13 Oct  |  | |  |
+|13	|  15 Oct  |  | |  |
+|14	|  20 Oct  |  | |  |
+|15	|  22 Oct  |  | |  |
+|16	|  27 Oct  |  | |  |
+|17	|  29 Oct  |  | |  |
+|18	|  3 Nov  |  | |  |
+|19	|  5 Nov  |  | |  |
+|20	|  10 Nov  |  | |  |
+|21	|  12 Nov  |  | |  |
+|22	|  17 Nov  |  | |  |
+|23	|  19 Nov  |  | |  |
+|24	|  24 Nov  |  | |  |
+|25	|  26 Nov  |  | |  |
+|26	|  1 Dec | | |  |
+
 
 # License
 
