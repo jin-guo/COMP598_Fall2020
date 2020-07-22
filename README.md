@@ -11,7 +11,7 @@ Due to the COVID-19 pandemic, this course will be taught remotely. The detailed 
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Class Time    | TR 11:35 am-12:55 pm | 
 | Location      | MAASS 328  |
-| Discussion Forum | [Piazza link](http://piazza.com/mcgill.ca/fall2020/comp303) |
+| Discussion Forum | [Piazza link](piazza.com/mcgill.ca/fall2020/comp598) |
 
 
 ## Description
