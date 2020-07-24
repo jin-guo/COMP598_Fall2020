@@ -37,31 +37,31 @@ Other readings will include research papers, blog posts, talks, etc. Will be add
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
 |1	|  3 Sep  | Introduction | BIS book: Chapter 1 <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)|  |
-|2	|  8 Sep  |  | |  |
-|3	|  10 Sep  |  | |  |
-|4	|  15 Sep  |  | |  |
-|5	|  17 Sep  |  | |  |
-|6	|  22 Sep  |  | |  |
-|7	|  24 Sep  |  | |  |
-|8	|  29 Sep  |  | |  |
-|9	|  1 Oct  |  | |  |
-|10	|  6 Oct  |  | |  |
-|11	|  8 Oct  |  | |  |
-|12	|  13 Oct  |  | |  |
-|13	|  15 Oct  |  | |  |
-|14	|  20 Oct  |  | |  |
-|15	|  22 Oct  |  | |  |
-|16	|  27 Oct  |  | |  |
-|17	|  29 Oct  |  | |  |
-|18	|  3 Nov  |  | |  |
-|19	|  5 Nov  |  | |  |
-|20	|  10 Nov  |  | |  |
-|21	|  12 Nov  |  | |  |
-|22	|  17 Nov  |  | |  |
-|23	|  19 Nov  |  | |  |
-|24	|  24 Nov  |  | |  |
-|25	|  26 Nov  |  | |  |
-|26	|  1 Dec | | |  |
+|2	|  8 Sep  | Intro to Modern Software Development  | |  |
+|3	|  10 Sep  | AI basics (focusing on ML) | |  |
+|4	|  15 Sep  | Evaluation | |  |
+|5	|  17 Sep  | Model -> System | |  |
+|6	|  22 Sep  | Data Quality | |  |
+|7	|  24 Sep  | Data Management | |  |
+|8	|  29 Sep  | Requirement for (and) AI | |  |
+|9	|  1 Oct  | Requirement for (and) AI | |  |
+|10	|  6 Oct  | Human-AI Interaction Design  | |  |
+|11	|  8 Oct  | Human-AI Interaction Design | |  |
+|12	|  13 Oct  | Team and Collaboration | |  |
+|13	|  15 Oct  | Quality Assessment | |  |
+|14	|  20 Oct  | Infrastucture Support | |  |
+|15	|  22 Oct  | Project Proposal (TBD) | |  |
+|16	|  27 Oct  | Case Study | |  |
+|17	|  29 Oct  | Intro to AI Ethics | |  |
+|18	|  3 Nov  | Safety | |  |
+|19	|  5 Nov  | Security | |  |
+|20	|  10 Nov  | Privacy | |  |
+|21	|  12 Nov  | Accountability/Auditing | |  |
+|22	|  17 Nov  | Transparent and Explainability | |  |
+|23	|  19 Nov  | Faireness | |  |
+|24	|  24 Nov  | Value in AI Design | |  |
+|25	|  26 Nov  | Wrap up | |  |
+|26	|  1 Dec | Presentation | |  |
 
 
 # License
