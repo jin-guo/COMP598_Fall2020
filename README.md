@@ -15,7 +15,7 @@ Due to the COVID-19 pandemic, this course will be taught remotely. The detailed 
 
 
 ## Description
-This course is going to explore how to build an intelligent system from a software engineering perspective, from requirement gathering and analysis to deployment and maintenance. 
+This course is going to explore how to build an intelligent system from a software engineering perspective, from requirement gathering and analysis to deployment and maintenance. We will also touch AI ethics and its implications to design.
 
 
 ## Expected Outcome
