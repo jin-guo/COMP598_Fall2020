@@ -24,10 +24,11 @@ This course is going to explore how to build an intelligent system from a softwa
 While there are no official prerequisite courses, you will enjoy and appreciate this course more if you have taken COMP303, COMP424 and COMP551 already.
 
 ## Reference Material
+We will not concentrate on any particular resources. Instead, the readings will include content from book chapters, research papers, blog posts, talks, etc. Will be added later.
+
 - **Books**: 
 [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://www.apress.com/gp/book/9781484234310). 
 
-Other readings will include research papers, blog posts, talks, etc. Will be added later.
 
 ## Assessment and Evaluation
 
