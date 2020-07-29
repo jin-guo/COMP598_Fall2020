@@ -53,7 +53,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |14	|  20 Oct  | Infrastucture Support | |  |
 |15	|  22 Oct  | Project Proposal (TBD) | |  |
 |16	|  27 Oct  | Case Study | |  |
-|17	|  29 Oct  | Intro to AI Ethics | |  |
+|17	|  29 Oct  | AI principles Overview | |  |
 |18	|  3 Nov  | Safety | |  |
 |19	|  5 Nov  | Security | |  |
 |20	|  10 Nov  | Privacy | |  |
