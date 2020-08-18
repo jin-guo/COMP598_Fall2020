@@ -13,12 +13,10 @@ Due to the COVID-19 pandemic, this course will be taught remotely. The detailed 
 | Location      | MAASS 328  |
 | Discussion Forum | [Piazza link](piazza.com/mcgill.ca/fall2020/comp598) |
 
+- I normally design many in-class activities for upper-level classes to motivate discussion and collaborative learning. Therefore, it is important to attend the lectures in order to gain the best learning experience – it cannot be replaced by watching the videos afterward. Given the special circumstance of this semester, I won't require you to attend all the lectures in real-time and try to balance the in-class and out-of-class effort. However, I would encourage you to register next year if you cannot attend most of the lectures. 
 
 ## Description
 This course is going to explore how to build an intelligent system from a software engineering perspective, from requirement gathering and analysis to deployment and maintenance. We will also touch AI ethics and its implications to design.
-
-
-## Expected Outcome
 
 ## Prerequisite
 While there are no official prerequisite courses, you will enjoy and appreciate this course more if you have taken COMP303, COMP424 and COMP551 already.
@@ -37,10 +35,6 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |  Participation (inclass and online) | 10% |
 |  Assignment |  60% |
 |  Final Project | 30% |
-
-
- 
-- I normally design many in-class activities for upper-level classes to motivate discussion and collaborative learning. Therefore, it is important to attend the lectures in order to gain the best learning experience – it cannot be replaced by watching the videos afterward. Given the special circumstance of this semester, I won't require you to attend all the lectures in real-time and try to balance the in-class and out-of-class effort. However, I strongly encourage you to register next year if you cannot attend most of the lectures. 
 
 - Any form of plagiarism, cheating is strictly banned during midterm or final exam. Integrity is crucial to this course and your future career. Any violation against academic integrity will be taken very seriously. For more information, please refer [here](https://www.mcgill.ca/students/srr/academicrights/integrity).
 
