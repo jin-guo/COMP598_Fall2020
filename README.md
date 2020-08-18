@@ -4,14 +4,15 @@
 
 
 ## General Information
-Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be confirmed at the end of the summer.
 
 |   |  |
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Class Time    | TR 11:35 am-12:55 pm | 
-| Location      | MAASS 328  |
+| Platform      | TBD  |
 | Discussion Forum | [Piazza link](piazza.com/mcgill.ca/fall2020/comp598) |
+
+- Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be updated soon.
 
 - I normally design many in-class activities for upper-level classes to motivate discussion and collaborative learning. Therefore, it is important to attend the lectures in order to gain the best learning experience – it cannot be replaced by watching the videos afterward. Given the special circumstance of this semester, I won't require you to attend all the lectures in real-time and try to balance the in-class and out-of-class effort. However, I would encourage you to register next year if you cannot attend most of the lectures. 
 
