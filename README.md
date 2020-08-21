@@ -49,22 +49,22 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |2	|  8 Sep  | Intro to Modern Software Development  | |  |
 |3	|  10 Sep  | AI basics (focusing on ML) | |  |
 |4	|  15 Sep  | Evaluation | |  |
-|5	|  17 Sep  | Model -> System | |  |
+|5	|  17 Sep  | Model -> System | | Due: Assignment1 |
 |6	|  22 Sep  | Data Quality | |  |
 |7	|  24 Sep  | Data Management | |  |
 |8	|  29 Sep  | Requirement for (and) AI | |  |
 |9	|  1 Oct  | Requirement for (and) AI | |  |
-|10	|  6 Oct  | Human-AI Interaction Design  | |  |
+|10	|  6 Oct  | Human-AI Interaction Design  | | Due: Assignment2 |
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
 |12	|  13 Oct  | Team and Collaboration | |  |
 |13	|  15 Oct  | Quality Assessment | |  |
 |14	|  20 Oct  | Infrastucture Support | |  |
-|15	|  22 Oct  | Project Proposal (TBD) | |  |
+|15	|  22 Oct  | Project Proposal (TBD) | | Due: Assignment3 |
 |16	|  27 Oct  | Case Study | |  |
 |17	|  29 Oct  | AI principles Overview | |  |
 |18	|  3 Nov  | Safety | |  |
 |19	|  5 Nov  | Security | |  |
-|20	|  10 Nov  | Privacy | |  |
+|20	|  10 Nov  | Privacy | | Due: Assignment4 |
 |21	|  12 Nov  | Accountability/Auditing | |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |
 |23	|  19 Nov  | Faireness | |  |
