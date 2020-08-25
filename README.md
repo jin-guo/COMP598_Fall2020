@@ -10,7 +10,7 @@
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | Class Time    | TR 11:35 am-12:55 pm | 
 | Platform      | TBD  |
-| Discussion Forum | [Piazza link](piazza.com/mcgill.ca/fall2020/comp598) |
+| Discussion Forum | [Slack Invitation Link](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) |
 
 - Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be updated soon.
 
