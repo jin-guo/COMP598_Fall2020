@@ -8,9 +8,11 @@
 |   |  |
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
+| TA | [Breandan Considine](https://github.com/breandan) |
 | Class Time    | TR 11:35 am-12:55 pm | 
 | Platform      | TBD  |
 | Discussion Forum | [Slack Invitation Link](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) |
+
 
 - Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be updated soon.
 
@@ -72,6 +74,8 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |25	|  26 Nov  | Wrap up | |  |
 |26	|  1 Dec | Presentation | |  |
 
+# Credit:
+The content of this course is greatly inspired by [CMU 17-445/645: Software Engineering for AI-Enabled Systems](https://ckaestne.github.io/seai/) which is developed by [Christian Kästner](http://www.cs.cmu.edu/~ckaestne/) et. al.
 
 # License
 
