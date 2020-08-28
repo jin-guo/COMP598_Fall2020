@@ -54,7 +54,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |5	|  17 Sep  | Model -> System | | Due: Assignment1 |
 |6	|  22 Sep  | Data Quality | |  |
 |7	|  24 Sep  | Data Management | |  |
-|8	|  29 Sep  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](Requirements Engineering for Machine Learning: Perspectives from Data Scientists)|  |
+|8	|  29 Sep  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
 |9	|  1 Oct  | Requirement for (and) AI | |  |
 |10	|  6 Oct  | Human-AI Interaction Design  | | Due: Assignment2 |
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
