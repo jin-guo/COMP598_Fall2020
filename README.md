@@ -31,7 +31,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://www.apress.com/gp/book/9781484234310). 
 
 
-## Assessment and Evaluation
+## Assessment and Evaluation (Tentative)
 
 |  Assessment Method | Weight |
 | :---: | :---: |
