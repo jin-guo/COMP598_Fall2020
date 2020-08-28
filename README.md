@@ -51,7 +51,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |2	|  8 Sep  | Intro to Modern Software Development  | |  |
 |3	|  10 Sep  | AI basics (focusing on ML) | |  |
 |4	|  15 Sep  | Evaluation | |  |
-|5	|  17 Sep  | Model -> System | | Due: Assignment1 |
+|5	|  17 Sep  | Model -> System | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0)| Due: Assignment1 |
 |6	|  22 Sep  | Data Quality | |  |
 |7	|  24 Sep  | Data Management | |  |
 |8	|  29 Sep  | Requirement for (and) AI | |  |
