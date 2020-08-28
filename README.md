@@ -63,8 +63,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |14	|  20 Oct  | Infrastucture Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
 |15	|  22 Oct  | Project Proposal (TBD) | | Due: Assignment3 |
 |16	|  27 Oct  | Case Study | |  |
-|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence:
-Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |
+|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |
 |18	|  3 Nov  | Safety | |  |
 |19	|  5 Nov  | Security | |  |
 |20	|  10 Nov  | Privacy | | Due: Assignment4 |
