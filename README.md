@@ -13,6 +13,9 @@
 | Remote Lecture      | Zoom (link through MyCourse)  |
 | Discussion Forum | [Slack Invitation Link](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) |
 
+- **TODO before attending the first lecture**:
+1. Please fill in this [Background Survey](https://forms.gle/Ny3MSJRfTZLdT2b28). I will try my best to accommodate your availability, background, and expectations of the course so having the input from you is extremely important.
+2. Please join the [Slack workspace](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) and introduce yourself to the cohort. From here, we hope to know you and work with you as a collaborator over this semester. 
 
 - Due to the COVID-19 pandemic, this course will be taught remotely. The detailed format will be updated soon.
 
