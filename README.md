@@ -1,4 +1,4 @@
-# COMP598_Fall2020 (Work in progress)
+# COMP598_Fall2020 Software Engineering for Building Intelligent Systems
 
 
 
@@ -10,7 +10,7 @@
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | TA | [Breandan Considine](https://github.com/breandan) |
 | Class Time    | TR 11:35 am-12:55 pm | 
-| Platform      | TBD  |
+| Remote Lecture      | Zoom (link through MyCourse)  |
 | Discussion Forum | [Slack Invitation Link](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) |
 
 
