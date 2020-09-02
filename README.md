@@ -59,21 +59,21 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |7	|  24 Sep  | Data Management | |  |
 |8	|  29 Sep  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
 |9	|  1 Oct  | Requirement for (and) AI | |  |
-|10	|  6 Oct  | Human-AI Interaction Design  | | Due: Assignment2 |
+|10	|  6 Oct  | Human-AI Interaction Design  | | |
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
 |12	|  13 Oct  | Team and Collaboration | |  |
-|13	|  15 Oct  | Quality Assessment | |  |
+|13	|  15 Oct  | Quality Assessment | | Due: Assignment2 |
 |14	|  20 Oct  | Infrastucture Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
-|15	|  22 Oct  | Project Proposal (TBD) | | Due: Assignment3 |
+|15	|  22 Oct  | Project Proposal (TBD) | | |
 |16	|  27 Oct  | Case Study | |  |
 |17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |
 |18	|  3 Nov  | Safety | |  |
-|19	|  5 Nov  | Security | |  |
-|20	|  10 Nov  | Privacy | | Due: Assignment4 |
+|19	|  5 Nov  | Security | | Due: Assignment3 |
+|20	|  10 Nov  | Privacy | |  |
 |21	|  12 Nov  | Accountability/Auditing | |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |
 |23	|  19 Nov  | Faireness | |  |
-|24	|  24 Nov  | Value in AI Design | |  |
+|24	|  24 Nov  | Value in AI Design | | Due: Assignment4 |
 |25	|  26 Nov  | Wrap up | |  |
 |26	|  1 Dec | Presentation | |  |
 
