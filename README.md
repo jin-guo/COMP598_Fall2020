@@ -50,11 +50,11 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
-|1	|  3 Sep  | Introduction | BIS book: Chapter 1 <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)|  |
+|1	|  3 Sep  | Introduction | BIS book: Chapter 1, 2 |  |
 |2	|  8 Sep  | Intro to Modern Software Development  | |  |
 |3	|  10 Sep  | AI basics (focusing on ML) | |  |
 |4	|  15 Sep  | Evaluation | |  |
-|5	|  17 Sep  | Model -> System | [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) | Due: Assignment1 |
+|5	|  17 Sep  | Model -> System | [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)| Due: Assignment1 |
 |6	|  22 Sep  | Data Quality | |  |
 |7	|  24 Sep  | Data Management | |  |
 |8	|  29 Sep  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
