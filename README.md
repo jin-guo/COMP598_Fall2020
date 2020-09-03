@@ -51,7 +51,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
-|1	|  3 Sep  | Introduction | BIS book: Chapter 1, 2 |  |
+|1	|  3 Sep  | Introduction | BIS book: Chapter 1, 2 <br> TIS book: Intro |  |
 |2	|  8 Sep  | Intro to Modern Software Development  | |  |
 |3	|  10 Sep  | AI basics (focusing on ML) | |  |
 |4	|  15 Sep  | Evaluation | |  |
