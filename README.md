@@ -31,8 +31,8 @@ While there are no official prerequisite courses, you will enjoy and appreciate 
 We will not concentrate on any particular resources. Instead, the readings will include content from book chapters, research papers, blog posts, talks, etc. The pointers to those content will be added to the schedule later.
 
 - **Books**: 
-  * [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://learning.oreilly.com/library/view/building-intelligent-systems/9781484234327/)
-  * [Thinking in Systems: A Primer](https://www.amazon.ca/Thinking-Systems-Primer-Donella-Meadows/dp/1603580557)
+  * [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://learning.oreilly.com/library/view/building-intelligent-systems/9781484234327/) (access through McGill Library)
+  * [Thinking in Systems: A Primer](https://www.amazon.ca/Thinking-Systems-Primer-Donella-Meadows/dp/1603580557) (Chapter scans in Shared OneDrive folder)
 
 
 ## Assessment and Evaluation (Tentative)
