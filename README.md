@@ -64,7 +64,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
 |12	|  13 Oct  | Team and Collaboration | |  |
 |13	|  15 Oct  | Quality Assessment | | Due: Assignment2 |
-|14	|  20 Oct  | Infrastucture Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
+|14	|  20 Oct  | Infrastructure Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
 |15	|  22 Oct  | Project Progress Report (TBD) | | |
 |16	|  27 Oct  | Case Study | |  |
 |17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |
@@ -73,7 +73,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |20	|  10 Nov  | Privacy | |  |
 |21	|  12 Nov  | Accountability/Auditing | |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |
-|23	|  19 Nov  | Faireness | |  |
+|23	|  19 Nov  | Fairness | |  |
 |24	|  24 Nov  | Value in AI Design | | Due: Assignment4 |
 |25	|  26 Nov  | Wrap up | |  |
 |26	|  1 Dec | Presentation | |  |
