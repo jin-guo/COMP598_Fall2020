@@ -33,7 +33,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 - **Books**: 
   * [Building Intelligent Systems <em>A Guide to Machine Learning Engineering</em>](https://learning.oreilly.com/library/view/building-intelligent-systems/9781484234327/) (access through McGill Library)
   * [Thinking in Systems: A Primer](https://www.amazon.ca/Thinking-Systems-Primer-Donella-Meadows/dp/1603580557) (Chapter scans in Shared OneDrive folder)
-
+  * [Human Compatible: AI and the Problem of Control](https://people.eecs.berkeley.edu/~russell/hc.html) (Chapter scans in Shared OneDrive folder)
 
 ## Assessment and Evaluation (Tentative)
 
@@ -51,9 +51,9 @@ We will not concentrate on any particular resources. Instead, the readings will 
 
 | Lecture | Date | Content | Reading | Note |
 | :---: |:---:| :---: | :---: | :---: |
-|1	|  3 Sep  | [Introduction](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Introduction.pdf) | BIS book: Chapter 1, 2 <br> TIS book: Intro |  |
+|1	|  3 Sep  | [Introduction](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Introduction.pdf) | BIS book: Chapter 1, 2 <br> TIS book: Intro (Onedrive) |  |
 |2	|  8 Sep  | Intro to Modern Software Engineering  | [GOTO 2020 Talk• Taking Back "Software Engineering"](https://youtu.be/_N_jIrEBOpw)<br> [Quality Attributes](https://resources.sei.cmu.edu/asset_files/technicalreport/1995_005_001_16427.pdf)|  |
-|3	|  10 Sep  | AI basics (focusing on ML) | |  |
+|3	|  10 Sep  | AI basics (focusing on ML) | Human Compatible: Intelligence (Onedrive) |  |
 |4	|  15 Sep  | Evaluation | |  |
 |5	|  17 Sep  | Model -> System | [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)| Assignment1 Due (20 Sep) |
 |6	|  22 Sep  | Data Quality | |  |
