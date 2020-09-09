@@ -74,7 +74,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |21	|  12 Nov  | Accountability/Auditing | |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |
 |23	|  19 Nov  | Fairness | |  |
-|24	|  24 Nov  | Value in AI Design | | Due: Assignment4 |
+|24	|  24 Nov  | Value in AI Design | [The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)| Due: Assignment4 |
 |25	|  26 Nov  | Wrap up | |  |
 |26	|  1 Dec | Presentation | |  |
 
