@@ -55,7 +55,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |2	|  8 Sep  | [Intro to Modern Software Engineering](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/IntroSE.pdf)  | [GOTO 2020 Talk• Taking Back "Software Engineering"](https://youtu.be/_N_jIrEBOpw)<br> [Quality Attributes](https://resources.sei.cmu.edu/asset_files/technicalreport/1995_005_001_16427.pdf)|  |
 |3	|  10 Sep  | Intro to Modern Software Engineering (cont'd)|  |  |
 |4	|  15 Sep  | AI basics (focusing on ML) | Human Compatible: Intelligence (Onedrive) |  |
-|5	|  17 Sep  | Evaluation | | [Assignment1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%201.md) Due (20 Sep) |
+|5	|  17 Sep  | Evaluation |[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://www.aclweb.org/anthology/D16-1230/) | [Assignment1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%201.md) Due (20 Sep) |
 |6	|  22 Sep  | Model -> System | [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)|  |
 |7	|  24 Sep  | Data Quality | |  |
 |8	|  29 Sep  | Data Management | |  |
