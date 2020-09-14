@@ -73,10 +73,10 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |20	|  10 Nov  | Privacy | |  |
 |21	|  12 Nov  | Accountability/Auditing | |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |
-|23	|  19 Nov  | Fairness | |  |
-|24	|  24 Nov  | Value in AI Design | [The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)| Due: Assignment4 |
-|25	|  26 Nov  | Wrap up | |  |
-|26	|  1 Dec | Presentation | |  |
+|23	|  19 Nov  | Transparent and Explainability | |  |
+|24	|  24 Nov  | Fairness | |  |
+|25	|  26 Nov  | Value in AI Design | [The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)| Due: Assignment4 |
+|26	|  1 Dec | Wrap up/Presentation | |  |
 
 # Credit:
 The content of this course is greatly inspired by [CMU 17-445/645: Software Engineering for AI-Enabled Systems](https://ckaestne.github.io/seai/) which is developed by [Christian Kästner](http://www.cs.cmu.edu/~ckaestne/) et. al.
