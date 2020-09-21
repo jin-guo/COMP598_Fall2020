@@ -64,7 +64,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
 |12	|  13 Oct  | Human-AI Interaction Design  | | |
 |13	|  15 Oct  | Team and Collaboration | |  |
-|14	|  20 Oct  | Quality Assessment | | Due: Assignment2 |
+|14	|  20 Oct  | Quality Assessment | [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) | Due: Assignment2 |
 |15	|  22 Oct  | Infrastructure Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
 |16	|  27 Oct  | Case Study | |  |
 |17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |
