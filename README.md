@@ -57,7 +57,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |4	|  15 Sep  | [AI basics (focusing on ML)](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/IntroML.pdf) | BIS book: Chapter 16, 17, 18 <br> Human Compatible: Intelligence (Onedrive) |  |
 |5	|  17 Sep  | [Model Selection and Evaluation](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/ModelEval.pdf) |BIS book: Chapter 19, 20 <br>[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://www.aclweb.org/anthology/D16-1230/) | [Assignment1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%201.md) Due (20 Sep) |
 |6	|  22 Sep  | Model -> System | [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) <br> [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)|  |
-|7	|  24 Sep  | Data Quality | [A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |
+|7	|  24 Sep  | Data Acquisition | [A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |
 |8	|  29 Sep  | Data Management | |  |
 |9	|  1 Oct  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
 |10	|  6 Oct  | Requirement for (and) AI | |  |
