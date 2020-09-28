@@ -58,7 +58,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |5	|  17 Sep  | [Model Selection and Evaluation](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/ModelEval.pdf) |BIS book: Chapter 19, 20 <br>[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://www.aclweb.org/anthology/D16-1230/) | [Assignment1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%201.md) Due (20 Sep) |
 |6	|  22 Sep  | Model Selection and Evaluation (cont'd) | [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) | |
 |7	|  24 Sep  | Model -> System | [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)  <br> TIS book: Chapter 4 Why Systems Suprise Us (Onedrive) |  |
-|8	|  29 Sep  | Data Acquisition & Management | [A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |
+|8	|  29 Sep  | Data Acquisition & Management | BIS book: Chapter 9 <br>[A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |
 |9	|  1 Oct  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
 |10	|  6 Oct  | Requirement for (and) AI | |  |
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
