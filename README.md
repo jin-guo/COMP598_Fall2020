@@ -62,7 +62,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |9	|  1 Oct  | Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
 |10	|  6 Oct  | Requirement for (and) AI | |  |
 |11	|  8 Oct  | Human-AI Interaction Design | |  |
-|12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me)) -- Designing usable machine-learning based applications | | |
+|12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me) -- Designing usable machine-learning based applications | | |
 |13	|  15 Oct  | Team and Collaboration | |  |
 |14	|  20 Oct  | Quality Assessment | [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) | Due: Assignment2 |
 |15	|  22 Oct  | Infrastructure Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
