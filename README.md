@@ -49,34 +49,34 @@ We will not concentrate on any particular resources. Instead, the readings will 
 ## Schedule (Tentative)
 *Subject to adjustments*
 
-| Lecture | Date | Content | Reading | Note |
-| :---: |:---:| :---: | :---: | :---: |
-|1	|  3 Sep  | [Introduction](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Introduction.pdf) | BIS book: Chapter 1, 2 <br> TIS book: Intro (Onedrive) |  |
+| Lecture | Date | Content | Reading | Note | Discussant |
+| :---: |:---:| :---: | :---: | :---: | :---: |
+|1	|  3 Sep  | [Introduction](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Introduction.pdf) | BIS book: Chapter 1, 2 <br> TIS book: Intro (Onedrive) |  |  |
 |2	|  8 Sep  | [Intro to Modern Software Engineering](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/IntroSE.pdf)  | [GOTO 2020 Talk• Taking Back "Software Engineering"](https://youtu.be/_N_jIrEBOpw)<br> [Quality Attributes](https://resources.sei.cmu.edu/asset_files/technicalreport/1995_005_001_16427.pdf)|  |
-|3	|  10 Sep  | Intro to Modern Software Engineering (cont'd)|  |  |
-|4	|  15 Sep  | [AI basics (focusing on ML)](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/IntroML.pdf) | BIS book: Chapter 16, 17, 18 <br> Human Compatible: Intelligence (Onedrive) |  |
-|5	|  17 Sep  | [Model Selection and Evaluation](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/ModelEval.pdf) |BIS book: Chapter 19, 20 <br>[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://www.aclweb.org/anthology/D16-1230/) | [Assignment1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%201.md) Due (20 Sep) |
-|6	|  22 Sep  | Model Selection and Evaluation (cont'd) | [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) | |
+|3	|  10 Sep  | Intro to Modern Software Engineering (cont'd)|  |  |  |
+|4	|  15 Sep  | [AI basics (focusing on ML)](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/IntroML.pdf) | BIS book: Chapter 16, 17, 18 <br> Human Compatible: Intelligence (Onedrive) |  |  |
+|5	|  17 Sep  | [Model Selection and Evaluation](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/ModelEval.pdf) |BIS book: Chapter 19, 20 <br>[How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://www.aclweb.org/anthology/D16-1230/) | [Assignment1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%201.md) Due (20 Sep) |  |
+|6	|  22 Sep  | Model Selection and Evaluation (cont'd) | [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) | |  |
 |7	|  24 Sep  | Model -> System | [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)  <br> TIS book: Chapter 4 Why Systems Suprise Us (Onedrive) |  |
-|8	|  29 Sep  | Data Acquisition & Management | BIS book: Chapter 9 <br>[A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |
-|9	|  1 Oct  | Data Acquisition & Management (cont'd) <br> Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |
-|10	|  6 Oct  | Requirement for (and) AI | |  |
-|11	|  8 Oct  | Human-AI Interaction Design | |  |
-|12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me) -- Designing usable machine-learning based applications | | |
-|13	|  15 Oct  | Team and Collaboration | |  |
-|14	|  20 Oct  | Quality Assessment | [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) | Due: Assignment2 |
-|15	|  22 Oct  | Infrastructure Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |
-|16	|  27 Oct  | Case Study | |  |
-|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |
-|18	|  3 Nov  | Safety | |  |
-|19	|  5 Nov  | Security | | Due: Assignment3 |
-|20	|  10 Nov  | Privacy | |  |
-|21	|  12 Nov  | Accountability/Auditing | |  |
-|22	|  17 Nov  | Transparent and Explainability | |  |
-|23	|  19 Nov  | Transparent and Explainability | |  |
-|24	|  24 Nov  | Fairness | |  |
-|25	|  26 Nov  | Value in AI Design | [The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)| Due: Assignment4 |
-|26	|  1 Dec | Wrap up/Presentation | |  |
+|8	|  29 Sep  | Data Acquisition & Management | BIS book: Chapter 9 <br>[A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |  |
+|9	|  1 Oct  | Data Acquisition & Management (cont'd) <br> Requirement for (and) AI |[Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |  |
+|10	|  6 Oct  | Requirement for (and) AI | |  |  |
+|11	|  8 Oct  | Human-AI Interaction Design | |  |  |
+|12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me) -- Designing usable machine-learning based applications | | |  |
+|13	|  15 Oct  | Team and Collaboration | |  |  |
+|14	|  20 Oct  | Quality Assessment | [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) | Due: Assignment2 |  |
+|15	|  22 Oct  | Infrastructure Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |  |
+|16	|  27 Oct  | Case Study | |  |  |
+|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |  |
+|18	|  3 Nov  | Safety | |  |  |
+|19	|  5 Nov  | Security | | Due: Assignment3 |  | 
+|20	|  10 Nov  | Privacy | |  |  |
+|21	|  12 Nov  | Accountability/Auditing | |  |  |
+|22	|  17 Nov  | Transparent and Explainability | |  |  |
+|23	|  19 Nov  | Transparent and Explainability | |  |  |
+|24	|  24 Nov  | Fairness | |  |  |
+|25	|  26 Nov  | Value in AI Design | [The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)| Due: Assignment4 |  |
+|26	|  1 Dec | Wrap up/Presentation | |  |  |
 
 # Credit:
 The content of this course is greatly inspired by [CMU 17-445/645: Software Engineering for AI-Enabled Systems](https://ckaestne.github.io/seai/) which is developed by [Christian Kästner](http://www.cs.cmu.edu/~ckaestne/) et. al.
