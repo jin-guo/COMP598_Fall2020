@@ -61,7 +61,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |8	|  29 Sep  | [Data Acquisition & Management](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/DataManagement.pdf) | BIS book: Chapter 9 <br>[A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |  |
 |9	|  1 Oct  | Data Acquisition & Management (cont'd) ||  | [Kangrui Ren](https://docs.google.com/presentation/d/e/2PACX-1vS-O5s9n71yc0vmFyisI_Mv1wlFWMVJP1lOgTiqcLmGKI-OH13k7g7V-TQweXH8T_U6D7ZiB5M2yXN-/pub?start=false&loop=false&delayms=3000&slide=id.g9cb2f7ac36_0_46) |
 |10	|  6 Oct  | Requirement for (and) AI | [Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  |  |
-|11	|  8 Oct  | Human-AI Interaction Design | |  |  |
+|11	|  8 Oct  | Human-AI Interaction Design | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/)|  |  |
 |12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me) -- Designing usable machine-learning based applications | | |  |
 |13	|  15 Oct  | Team and Collaboration | |  |  |
 |14	|  20 Oct  | Quality Assessment | [ Data validation for machine learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)<br>[What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) | Due: Assignment2 |  |
