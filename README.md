@@ -11,7 +11,7 @@
 | Class Time    | TR 11:35 am-12:55 pm | 
 | TA Office Hours    | W 11:00 am-12:00 pm | 
 | Remote Lecture      | Zoom (link through MyCourse)  |
-| Discussion Forum | [Slack Invitation Link](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) |
+| Discussion Forum | Slack |
 
 - **TODO before attending the first lecture**:
 1. Please fill in this [Background Survey](https://forms.gle/Ny3MSJRfTZLdT2b28). I will try my best to accommodate your availability, background, and expectations of the course so having the input from you is extremely important.
@@ -62,7 +62,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |9	|  1 Oct  | Data Acquisition & Management (cont'd) ||  | [Kangrui Ren](https://docs.google.com/presentation/d/e/2PACX-1vS-O5s9n71yc0vmFyisI_Mv1wlFWMVJP1lOgTiqcLmGKI-OH13k7g7V-TQweXH8T_U6D7ZiB5M2yXN-/pub?start=false&loop=false&delayms=3000&slide=id.g9cb2f7ac36_0_46) |
 |10	|  6 Oct  | Requirement for (and) AI | [Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  | [Alexa Hernandez](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Discussant/Alexa_2020_10_06_RE_for_AI_Systems.pdf)|
 |R1	|  7 Oct  | Project 1 Recitation | [Project Intro: Movie Recommendation](https://github.com/breandan/seai-client-template)|  | Breandan Considine |
-|11	|  8 Oct  | Requirement for (and) AI (cont'd) <br> Human-AI Interaction Design | [How Good is 85%? A Survey Tool to Connect Classifier Evaluation to Acceptability of Accuracy](http://www.mjskay.com/papers/chi_2015_accuracy-acceptability-mjskay.pdf)|  |  |
+|11	|  8 Oct  | Requirement for (and) AI (cont'd) <br> Human-AI Interaction Design | [How Good is 85%? A Survey Tool to Connect Classifier Evaluation to Acceptability of Accuracy](http://www.mjskay.com/papers/chi_2015_accuracy-acceptability-mjskay.pdf)|  | [Grace Hu](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Discussant/Grace_2020_10_06_Human-AI%20Interaction%20Design.pdf) |
 |12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me) -- Designing usable machine-learning based applications | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/)| |  |
 |13	|  15 Oct  | Human-AI Interaction Design | BIS book: Chapter 5-8 <br> [Human-Centered Artificial Intelligence: Three Fresh Ideas](https://aisel.aisnet.org/thci/vol12/iss3/1/)|  |  |
 |14	|  20 Oct  | Quality Assessment | [ Data validation for machine learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)<br>[What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) | [Project M1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due |  |
