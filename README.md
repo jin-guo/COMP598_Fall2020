@@ -5,7 +5,6 @@
 
 ## General Information
 
-|   |  |
 | :---: | ------------- |
 | Instructor    | [Jin Guo](http://jguo-web.com/index.html)  |
 | TA | [Breandan Considine](https://github.com/breandan) |
@@ -62,6 +61,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |8	|  29 Sep  | [Data Acquisition & Management](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/DataManagement.pdf) | BIS book: Chapter 9 <br>[A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective](https://ieeexplore.ieee.org/abstract/document/8862913) |  |  |
 |9	|  1 Oct  | Data Acquisition & Management (cont'd) ||  | [Kangrui Ren](https://docs.google.com/presentation/d/e/2PACX-1vS-O5s9n71yc0vmFyisI_Mv1wlFWMVJP1lOgTiqcLmGKI-OH13k7g7V-TQweXH8T_U6D7ZiB5M2yXN-/pub?start=false&loop=false&delayms=3000&slide=id.g9cb2f7ac36_0_46) |
 |10	|  6 Oct  | Requirement for (and) AI | [Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/pdf/1908.04674.pdf)|  | [Alexa Hernandez](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/Discussant/Alexa_2020_10_06_RE_for_AI_Systems.pdf)|
+|R1	|  7 Oct  | Project 1 Recitation | [Project Intro: Movie Recommendation](https://github.com/breandan/seai-client-template)|  | Breandan Considine |
 |11	|  8 Oct  | Requirement for (and) AI (cont'd) <br> Human-AI Interaction Design | [How Good is 85%? A Survey Tool to Connect Classifier Evaluation to Acceptability of Accuracy](http://www.mjskay.com/papers/chi_2015_accuracy-acceptability-mjskay.pdf)|  |  |
 |12	|  13 Oct  | Guest Lecture: [Jinghui Cheng](https://jhcheng.me) -- Designing usable machine-learning based applications | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/)| |  |
 |13	|  15 Oct  | Human-AI Interaction Design | BIS book: Chapter 5-8 <br> [Human-Centered Artificial Intelligence: Three Fresh Ideas](https://aisel.aisnet.org/thci/vol12/iss3/1/)|  |  |
