@@ -11,7 +11,7 @@
 | Class Time    | TR 11:35 am-12:55 pm | 
 | TA Office Hours    | W 11:00 am-12:00 pm | 
 | Remote Lecture      | Zoom (link through MyCourse)  |
-| Discussion Forum | [Slack Invitation Link](https://join.slack.com/t/se4ai-mcgill-fall2020/shared_invite/zt-gzqggeuo-ZGzo0~5OIlAlW~CfZbGuRw) |
+| Discussion Forum | Slack |
 
 - **TODO before attending the first lecture**:
 1. Please fill in this [Background Survey](https://forms.gle/Ny3MSJRfTZLdT2b28). I will try my best to accommodate your availability, background, and expectations of the course so having the input from you is extremely important.
