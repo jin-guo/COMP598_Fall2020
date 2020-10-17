@@ -28,7 +28,7 @@ In addition, we provide read-only access to an API to query information about us
 
 You do not need to use all provided data, but should use most of it and not down-sample too much for the final model. Plan for the fact that data gathering and cleaning data may take some time; the provided raw data is fairly large and you may need some time to download and process it.
 
-**Languages, tools, and frameworks:** Your team is free to chose any technology stack for any part of this assignment. You have root access to your virtual machine. You also may use external data and services (e.g. cloud services) as long as you can make them also available to the course staff. Whenever you set up tools or services, pay some attention to configuring them with reasonable security measures.
+**Languages, tools, and frameworks:** Your team is free to chose any technology stack for any part of this assignment. If you need to install any additional packages, please contact your TA. You also may use external data and services (e.g. cloud services) as long as you can make them also available to the course staff. Whenever you set up tools or services, pay some attention to configuring them with reasonable security measures.
 
 
 **Documentation and reports:** For all milestones, we ask for supports that document your design decision and implementation. It may be a good idea to write general documentation that is useful for the team in a place that is shared and accessible to the team (e.g., README.md or wiki pages on GitHub). Conversely it may be a good idea to include text or figures you write for reports as part of the project documentation. Feel free to link to more detailed documentation from your report or simply copy material from existing documentation into the report.
