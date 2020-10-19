@@ -72,7 +72,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |18	|  3 Nov  | Safety | |  |  |
 |19	|  5 Nov  | Security | | Due: Assignment3 |  | 
 |20	|  10 Nov  | Privacy | |  |  |
-|21	|  12 Nov  | Accountability/Auditing | |  |  |
+|21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ)|  |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |  |
 |23	|  19 Nov  | Transparent and Explainability | |  |  |
 |24	|  24 Nov  | Fairness | |  |  |
