@@ -68,15 +68,15 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |14	|  20 Oct  | [Data Quality Assessment](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/DataQuality.pdf) | [ Data validation for machine learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf) <br> [Automating Large-Scale Data Quality Verification](http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf) | [Project M1](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due |  [Lucas Turpin](https://docs.google.com/presentation/d/1u8T0VOHZuVwg4279LhG4PpcO4u0uZKbw_sebrrF3vvg/edit?usp=sharing)|
 |15	|  22 Oct  | Quality Assessment <br> Infrastructure Support | [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)| |
 |16	|  27 Oct  | Infrastructure Support | [The TWIML AI Podcast with Sam Charrington: Machine Learning as a Software Engineering Discipline with Dillon Erb](https://youtu.be/4OIjxmBhXi0) |  |  |
-|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)|  |  |
+|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| [Assignment2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%202.md) Due (29 Oct)  |  |
 |18	|  3 Nov  | Safety | |  |  |
-|19	|  5 Nov  | Security | | Due: Assignment3 |  | 
+|19	|  5 Nov  | Security | | [Project M2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due (8 Nov) |  | 
 |20	|  10 Nov  | Privacy | |  |  |
 |21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ)|  |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |  |
 |23	|  19 Nov  | Transparent and Explainability | |  |  |
 |24	|  24 Nov  | Fairness | |  |  |
-|25	|  26 Nov  | Value in AI Design | [A Case for Human Values in Software Engineering](https://eprints.lancs.ac.uk/id/eprint/139715/1/08917668.pdf)<br>[The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)| Due: Assignment4 |  |
+|25	|  26 Nov  | Value in AI Design | [A Case for Human Values in Software Engineering](https://eprints.lancs.ac.uk/id/eprint/139715/1/08917668.pdf)<br>[The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)|  |  |
 |26	|  1 Dec | Wrap up/Presentation | |  |  |
 
 # Credit:
