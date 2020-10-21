@@ -52,7 +52,7 @@ Note that users of the streaming service will immediately see recommendations yo
 
 For this milestone, we do not care about specifics of how you learn or deploy your model, how accurate your predictions are, or how stable your service is.
 
-**Deliverables:** Submit your code to Github and tag it with `M1_done` and submit a short report to MyCourse that describes the following:
+**Deliverables:** Submit your code to Github and tag it with `M1_done` and submit a short report by email Jin and Breandan (email addresses can be found on Slack) containing the following information:
 
 * Learning (1 page max): Briefly describe what kind of machine learning technique you use and why. Provide a pointer to your implementation where you train the model (e.g. to GitHub or other services). 
 * Inference service (1 page max): Briefly describe how you implemented the recommendation service and how you derive a ranking from your model. Provide a pointer to your implementation (e.g. to GitHub or other services).
