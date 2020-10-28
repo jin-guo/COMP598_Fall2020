@@ -77,7 +77,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ)|  |  |
 |22	|  17 Nov  | Transparent and Explainability | |  |  |
 |23	|  19 Nov  | Transparent and Explainability | |  |  |
-|24	|  24 Nov  | Fairness | |  |  |
+|24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  |  |
 |25	|  26 Nov  | Value in AI Design | [A Case for Human Values in Software Engineering](https://eprints.lancs.ac.uk/id/eprint/139715/1/08917668.pdf)<br>[The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)|  |  |
 |26	|  1 Dec | Wrap up/Presentation | |  |  |
 
