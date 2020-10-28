@@ -71,6 +71,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |R2	|  28 Oct  | Project M2 Recitation | [Concepts in Statistical and Software Testing](https://github.com/breandan/kotlingrad/blob/master/latex/testing/testing.pdf) |  | Breandan Considine |
 |17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| [Assignment2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%202.md) Due (29 Oct)  |  |
 |18	|  3 Nov  | Safety | |  |  |
+|R3	|  4 Nov  | Project M2 Recitation | CI/CD | | Breandan Considine |
 |19	|  5 Nov  | Security | | [Project M2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due (8 Nov) |  | 
 |20	|  10 Nov  | Privacy | |  |  |
 |21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ)|  |  |
