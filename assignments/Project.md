@@ -92,7 +92,7 @@ For data quality, focus on data schema issues, missing data, and duplicate data;
 
 If you hit resource limits of your virtual machine, contact the course staff.
 
-**Deliverables:** Submit your code to Github and tag it with `M2_done` and submit a short report to Gradescope that describes the following:
+**Deliverables:** Submit your code to Github and tag it with `M2_done` and submit (by email Jin and Breandan) a short report that describes the following:
 
 * Offline evaluation (1 page max): Briefly explain how you conduct your offline evaluation. This just include a description of the validation/test data and how it was derived (including a discussion of data dependence and important subpopulation if appropriate) and a brief description and justification of the used metric. Include or link to evaluation results in your report. Provide a pointer to the corresponding implementation in your code (preferably a direct GitHub link).
 * Online evaluation (1 page max): Briefly describe the metric used for evaluating model quality in production, the telemetry data collected, and the operationalization of the metric. Include or link to evaluation results in your report. Provide a pointer to the corresponding implementation in your code (preferably a direct GitHub link).
@@ -138,7 +138,7 @@ Although we do not set explicit requirements for quality assurance, we suggest t
 
 If you hit resource limits of your virtual machine, contact the course staff.
 
-**Deliverables:** Submit your code to Github and tag it with `M3_done` and submit a short report to Gradescope that describes the following:
+**Deliverables:** Submit your code to Github and tag it with `M3_done` and submit (by email Jin and Breandan) a short report that describes the following:
 
 * Containerization (0.5 pages max): Briefly describe how you containerized and deployed your inference service and where/how you automatically create containers as part of the continuous integration process.  Provide a pointer to the Dockerfile(s) and other relevant implementations (preferably a direct GitHub link).
 * Monitoring (0.5 pages text max): Briefly describe how you set up your monitoring infrastructure and what you monitor and whether and why you set alerts. Include a screenshot of your dashboard showing at least availability and model quality measures. Provide pointers to the corresponding code/infrastructure (preferably a direct GitHub link) and explain how we can access your dashboard (include credentials if needed).
@@ -175,7 +175,7 @@ For analyzing feedback loops, fairness, and attacks, you will analyze past recom
 
 We have introduced mechanisms for specific feedback loops in our infrastructure and may try to simulate an attack on your recommendation system during the assignments duration. It is okay if you look for feedback loops or attacks that are not actually occurring or detect issues that we did not plan for: We do not require that you detect the specific feedback loop or attack that we encoded. 
 
-**Deliverables:** Present your work in the dedicated session and submit a final report to Gradescope that describes the following:
+**Deliverables:** Present your work in the dedicated session and submit a final report that describes the following:
 
 * **Conceptual Analysis of Potential Problems (optional)** (3 pages max): Describe the process you used to analyze possible feedback loops, fairness, and attacks. Identify at least 2 potential issues each. For each feedback loop, explain what might happen and what the positive or negative consequences are, and how it could be detected. For each fairness issue, describe the potential problem, the used notion of fairness, how it could be detected, and how it can be reduced. For each potential attack, describe the attack scenario, how it could be detected, how it could be mitigated or made harder to exploit, and what could be done once detected.
 * **Analysis of Problems in Log Data (optional)** (2 pages max): Briefly describe how you analyzed one potential issue (either feedback loop, fairness, or attack) in the telemetry data of your system. Summarize your key findings, including negative results. Provide pointers to the artifacts behind your analysis for details (ideally links to notebook files on Github).
