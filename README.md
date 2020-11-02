@@ -70,7 +70,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |16	|  27 Oct  | [Continuous Delivery](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/ContinuousDelivery.pdf) | |  |  |
 |R2	|  28 Oct  | Project M2 Recitation | [Concepts in Statistical and Software Testing](https://github.com/breandan/kotlingrad/blob/master/latex/testing/testing.pdf) |  | Breandan Considine |
 |17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| [Assignment2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%202.md) Due (29 Oct)  |  |
-|18	|  3 Nov  | Safety |[An Analysis of ISO 26262: Using Machine Learning Safely in Automotive Software](https://arxiv.org/pdf/1709.02435.pdf) |  |  |
+|18	|  3 Nov  | Safety |[Autonomous Vehicle Safety: An Interdisciplinary Challenge](https://ieeexplore.ieee.org/abstract/document/7823109)<br>[An Analysis of ISO 26262: Using Machine Learning Safely in Automotive Software](https://arxiv.org/pdf/1709.02435.pdf) |  |  |
 |R3	|  4 Nov  | Project M2 Recitation | CI/CD | | Breandan Considine |
 |19	|  5 Nov  | Security | | [Project M2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due (8 Nov) |  | 
 |20	|  10 Nov  | Privacy | |  |  |
