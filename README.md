@@ -73,7 +73,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |18	|  3 Nov  | AI principles Overview |  |  |
 |R3	|  4 Nov  | Project M2 Recitation | CI/CD | | Breandan Considine |
 |19	|  5 Nov  | Safety |[Autonomous Vehicle Safety: An Interdisciplinary Challenge](https://ieeexplore.ieee.org/abstract/document/7823109)<br>[An Analysis of ISO 26262: Using Machine Learning Safely in Automotive Software](https://arxiv.org/pdf/1709.02435.pdf) | [Project M2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due (8 Nov) | Sogol Masoumzadeh | 
-|20	|  10 Nov  | Security and Privacy | [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf)|  | Yechuan Shi |
+|20	|  10 Nov  | Security and Privacy | [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf) <br>[Designing privacy-aware internet of things applications](https://www.sciencedirect.com/science/article/pii/S0020025519309120?casa_token=gj30woV-fm4AAAAA:4XFjzxa8dhskuzkc1PSjTm8FFIXbj1DEp-MUPvtsWCyaYtvoSqzHuyeHy1QqXjtUvCu0k0OfHA)|  | Yechuan Shi |
 |21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ)|  | Jazlyn Hellman |
 |22	|  17 Nov  | Transparent and Explainability | |  | Eddie Cai |
 |23	|  19 Nov  | Transparent and Explainability | |  |  Jintao Guo|
