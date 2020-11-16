@@ -77,7 +77,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ) <br>[Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims (Section 2 and 3)](https://arxiv.org/pdf/2004.07213.pdf)|  | Jazlyn Hellman |
 |22	|  17 Nov  | Transparent and Explainability |[Designing Theory-Driven User-Centric Explainable AI](https://dl.acm.org/doi/pdf/10.1145/3290605.3300831?casa_token=TvYM-Ik6lakAAAAA:bLF4QklCqOopi6TBhZekzVhfmV2o226OcvSGSYQ5VYwh7mD1gRBkxMDbZ7no1oQRnNMw0uMJoUGX) |  | Eddie Cai |
 |23	|  19 Nov  | Transparent and Explainability | |  |  Jintao Guo|
-|24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  | Andrea Jiang |
+|24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  [Assignment3](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%203.md) Due (24 Nov)| Andrea Jiang |
 |25	|  26 Nov  | Value in AI Design | [A Case for Human Values in Software Engineering](https://eprints.lancs.ac.uk/id/eprint/139715/1/08917668.pdf)<br>[The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)|  |  |
 |26	|  1 Dec | Wrap up/Presentation | |  |  |
 
