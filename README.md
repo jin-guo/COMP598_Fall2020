@@ -69,15 +69,15 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |15	|  22 Oct  | [Quality Assessment](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/DevTest_Telemetry.pdf) | [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)<br>BIS book: Chapter 15| | [Edrick Da Corte Henriquez](https://docs.google.com/presentation/d/1Wig7bmVInQLZ8KE3cp9sFifmniMhq5X9Hei13E1wIfg/edit?usp=sharing)|
 |16	|  27 Oct  | [Continuous Delivery](https://github.com/jin-guo/COMP598_Fall2020/blob/master/slides/ContinuousDelivery.pdf) | |  |  |
 |R2	|  28 Oct  | Project M2 Recitation | [Concepts in Statistical and Software Testing](https://github.com/breandan/kotlingrad/blob/master/latex/testing/testing.pdf) |  | Breandan Considine |
-|17	|  29 Oct  | AI principles Overview | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| [Assignment2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%202.md) Due (29 Oct)  |  |
-|18	|  3 Nov  | Safety | |  |  |
+|17	|  29 Oct  | Class Canceled | [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-based Approaches to Principles for AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482)| [Assignment2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%202.md) Due (29 Oct)  |  |
+|18	|  3 Nov  | AI principles Overview |  |  |
 |R3	|  4 Nov  | Project M2 Recitation | CI/CD | | Breandan Considine |
-|19	|  5 Nov  | Security | | [Project M2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due (8 Nov) |  | 
-|20	|  10 Nov  | Privacy | |  |  |
-|21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ)|  |  |
-|22	|  17 Nov  | Transparent and Explainability | |  |  |
-|23	|  19 Nov  | Transparent and Explainability | |  |  |
-|24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  |  |
+|19	|  5 Nov  | Safety |[Autonomous Vehicle Safety: An Interdisciplinary Challenge](https://ieeexplore.ieee.org/abstract/document/7823109)<br>[An Analysis of ISO 26262: Using Machine Learning Safely in Automotive Software](https://arxiv.org/pdf/1709.02435.pdf) | [Project M2](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due (8 Nov) | Sogol Masoumzadeh | 
+|20	|  10 Nov  | Security and Privacy | [SoK: Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/pdf/1611.03814.pdf) <br>[Designing privacy-aware internet of things applications](https://www.sciencedirect.com/science/article/pii/S0020025519309120?casa_token=gj30woV-fm4AAAAA:4XFjzxa8dhskuzkc1PSjTm8FFIXbj1DEp-MUPvtsWCyaYtvoSqzHuyeHy1QqXjtUvCu0k0OfHA)|  | Yechuan Shi |
+|21	|  12 Nov  | Accountability/Auditing | [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873?casa_token=ETIdzxHvH-MAAAAA:DJKwhwzspR3Rb2Z2RuDMTDcl4L2te37a-4GdqkmRhPyC3zCLL0wledNr1v-HKnqrd4kIKeYGLRXQ) <br>[Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims (Section 2 and 3)](https://arxiv.org/pdf/2004.07213.pdf)|  | Jazlyn Hellman |
+|22	|  17 Nov  | Transparent and Explainability |[Designing Theory-Driven User-Centric Explainable AI](https://dl.acm.org/doi/pdf/10.1145/3290605.3300831?casa_token=TvYM-Ik6lakAAAAA:bLF4QklCqOopi6TBhZekzVhfmV2o226OcvSGSYQ5VYwh7mD1gRBkxMDbZ7no1oQRnNMw0uMJoUGX) |  | Eddie Cai |
+|23	|  19 Nov  | Transparent and Explainability | |  |  Jintao Guo|
+|24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  | Andrea Jiang |
 |25	|  26 Nov  | Value in AI Design | [A Case for Human Values in Software Engineering](https://eprints.lancs.ac.uk/id/eprint/139715/1/08917668.pdf)<br>[The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)|  |  |
 |26	|  1 Dec | Wrap up/Presentation | |  |  |
 

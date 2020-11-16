@@ -120,7 +120,7 @@ First, containerize your model inference service (and possibly other parts of yo
 
 Second, set up a monitoring infrastructure that monitors the health of your recommendation service (including availability) and the quality of its predictions. You might want to set up automated alerts if problems are detected.
 
-Third, build a continuous deployment pipeline where models are automatically pushed into production via a canary release process once they passed offline quality checks. Automate the entire process so that the model learning and deployment process can be triggered with a single command-line call. Further automate the process that models are updated and deployed every 3 days with new production data. Test that poor releases are actually aborted without impacting too many users.
+Third, build a continuous deployment pipeline where models are automatically pushed into production via a [canary release](https://landing.google.com/sre/workbook/chapters/canarying-releases/) process once they passed offline quality checks. Automate the entire process so that the model learning and deployment process can be triggered with a single command-line call. Further automate the process that models are updated and deployed every 3 days with new production data. Test that poor releases are actually aborted without impacting too many users.
 
 Finally, track provenance of your models such that for every prediction your recommendation service makes you can answer: (1) which version of the model has made the prediction, (2) which version of the pipeline code and ML frameworks has been used to train that model, and (3) what data has been used for training that model.
 
