@@ -1,4 +1,4 @@
-#Assignment 3: Security and Privacy
+# Assignment 3: Security and Privacy
 
 ## Overview
 In this assignment, you are going to use threat modeling techniques to identify the most important threats to your case study system (the same system in your Assignment 1 and 2 reports) and to understand their impact on the product users. Consider this analysis happens during the early stage of product development. Note the objective is not to build a comprehensive threat model, but to analyze the threats that are most relevant to the ML components.
