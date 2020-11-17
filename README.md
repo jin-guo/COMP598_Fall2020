@@ -79,7 +79,7 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |23	|  19 Nov  | Transparent and Explainability | |  |  Jintao Guo|
 |24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  [Assignment3](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%203.md) Due (24 Nov)| Andrea Jiang |
 |25	|  26 Nov  | Value in AI Design | [A Case for Human Values in Software Engineering](https://eprints.lancs.ac.uk/id/eprint/139715/1/08917668.pdf)<br>[The Nature of Software Development: Chapter 1, 2, 10, 11](https://learning.oreilly.com/library/view/the-nature-of/9781680500721/f_0000.html)|  |  |
-|26	|  1 Dec | Wrap up/Presentation | |  |  |
+|26	|  8 Dec | Final Presentation | |  |  |
 
 # Credit:
 The content of this course is greatly inspired by [CMU 17-445/645: Software Engineering for AI-Enabled Systems](https://ckaestne.github.io/seai/) which is developed by [Christian Kästner](http://www.cs.cmu.edu/~ckaestne/) et. al.
