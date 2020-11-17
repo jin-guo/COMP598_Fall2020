@@ -99,7 +99,7 @@ If you hit resource limits of your virtual machine, contact the course staff.
 * Pipeline implementation and testing (1 page max): Briefly describe how you structured the implementation of your pipeline and how you conducted testing. Include or link to a coverage report. Briefly argue why you think the testing is adequate. Provide a pointer to the corresponding implementation and test suite in your code (preferably a direct GitHub link).
 * Continuous integration (0.5 pages max): Describe your continuous integration setup both for infrastructure testing and for automatically training and evaluating models. Provide a pointer to the service (and credentials if needed to access the platform).
 
-**Grading:** This milestone is worth 100 points: 20 for the pipeline implementation and corresponding code and commit quality, 15 points for data quality checks, 15 points for suitable offline model quality assessment, 20 points for good infrastructure testing and an adequacy argument, and 10 points for using continuous integration.
+**Grading:** This milestone is worth 100 points: 20 for the pipeline implementation and corresponding code and commit quality, 20 points for data quality checks, 20 points for suitable offline model quality assessment, 20 points for good infrastructure testing and an adequacy argument, and 20 points for using continuous integration.
 
 
 
@@ -127,7 +127,7 @@ Keep your recommendation service running as much as possible for the remainder o
 
 **Technical details:** We recommend Docker to containerize your model serving infrastructure. You can package the model inside the container or have the container load the model from an external resource (e.g., mounted file system or web server). Your continuous integration/deployment infrastructure should automatically build a new container when needed. You can write your own simple load balancer in 10 lines of Python or Node.js code with `flask` or `express`, if needed, so you can switch between multiple models without downtime.
 
-We recommend to mostly use existing infrastructure for monitoring, such as `Grafanda`. You may also use external cloud services if you prefer. Monitor at least availability of your service (e.g., by analyzing the Kafka logs) and the model quality through online evaluatiton metrics.
+We recommend to mostly use existing infrastructure for monitoring, such as `Grafanda`. You may also use external cloud services if you prefer. Monitor at least availability of your service (e.g., by analyzing the Kafka logs) and the model quality through online evaluation metrics.
 
 For canary releases, you can write your own infrastructure or use an external library or service (e.g., LaunchDarkly or split.io). Releases may be triggered by code changes from your continuous integration service, manually from the command line, or periodically from a scheduler (e.g., `cron`). You could use your own simple load balancer to route traffic to different model servers depending on which users should see which model. You can use your existing telemetry data to make decisions about continuing or aborting the release (5 bonus points for using appropriate statistics for making this decision). Automatically send emails for successful or aborted releases.
 
