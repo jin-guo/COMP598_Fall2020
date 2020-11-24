@@ -79,7 +79,9 @@ We will not concentrate on any particular resources. Instead, the readings will 
 |23	|  19 Nov  | Transparent and Explainability | |  |  Jintao Guo|
 |24	|  24 Nov  | Fairness | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](http://www.jennwv.com/papers/checklists.pdf)|  [Assignment3](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Assignment%203.md) Due (24 Nov)| Andrea Jiang |
 |25	|  26 Nov  | Value in AI Design | [“The Human Body is a Black Box”: Supporting Clinical Decision-Making with Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3351095.3372827) |  |  |
-|26	|  8 Dec | Final Presentation | |  |  |
+|--	|  3 Dec | -- |  | [Project M3](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due |  |  
+|--	|  7 Dec | -- |  | [Project Final Report](https://github.com/jin-guo/COMP598_Fall2020/blob/master/assignments/Project.md) Due |  |  
+|--	|  8 Dec | Final Presentation | | |  |  
 
 # Credit:
 The content of this course is greatly inspired by [CMU 17-445/645: Software Engineering for AI-Enabled Systems](https://ckaestne.github.io/seai/) which is developed by [Christian Kästner](http://www.cs.cmu.edu/~ckaestne/) et. al.
